@@ -1,0 +1,5 @@
+[2019-03-01 11:16:46] http://localhost:8080/ojs_php
+[2019-03-01 11:16:46] [Notice] Task process started.
+[2019-03-01 11:16:47] [Notice] File /opt/lampp/htdocs/uploads/usageStats/processing/usage_events_20190226.log was processed and archived.
+[2019-03-01 11:16:47] [Notice] File /opt/lampp/htdocs/uploads/usageStats/processing/usage_events_20190227.log was processed and archived.
+[2019-03-01 11:16:47] [Notice] Task process stopped.
